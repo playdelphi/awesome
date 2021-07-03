@@ -1,6 +1,8 @@
-awesome-seeds
-来源:
-https://raw.githubusercontent.com/88250/awesome-seeds
+* awesome-seeds
+* 来源:
+* https://raw.githubusercontent.com/88250/awesome-seeds
+* 数据源更新时间：
+* Latest commit b54d7a0 on 29 Nov 2020
 
 
 ## 💡 简介
